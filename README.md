@@ -7,7 +7,7 @@ Profesional en transición a **Data Analyst** con experiencia en banca y telecom
   (Próximamente más proyectos)
 
 ### Habilidades
-- Power BI y Tableau
+- Power BI
 - Python (básico)
 - SQL
 - Estadística básica
